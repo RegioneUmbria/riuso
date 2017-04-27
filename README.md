@@ -3,7 +3,7 @@
 La Regione Umbria ha creato un repository contentente il codice sorgente dei progetti software messi a riuso e le buone pratiche.
 Le Pubbliche Amministrazioni interessate possono richiede alla Regione Umbria l'accesso a tali repository.
 
-## Modalità di richiesta
+## Modalità di accesso
 Per accedere ad uno o più repository contenenti la documentazione ed il codice sorgente è necessario inviare la richiesta alla Regione Umbria ed avere un account Github. Insieme alla richiesta di riuso vanno indicati anche il/i repostory di interesse e lo username con cui ci si è registrati su Github.
 L'amministratore del repository provvederà in breve tempo ad abilitare l'account fornito ad accedere ai repository indicati.
 
