@@ -9,8 +9,8 @@ L'amministratore del repository provvederà in breve tempo ad abilitare l'account
 
 ## Documentazione
 In questo repository pubblico sono presenti due documenti che descrivono sia il modello tecnico del repository sia le modalità di gestione dello stesso:
-* [Modello di gestione del repository](https://github.com/RegioneUmbria/riuso/blob/master/Modello%20repository-MT.doc?raw=true)
-* [Modello tecnico del repository](https://github.com/RegioneUmbria/riuso/blob/master/Modello%20repository-MG.doc?raw=true)
+* [Modello di gestione del repository](https://github.com/RegioneUmbria/riuso/blob/master/Modello%20repository-MG.doc?raw=true)
+* [Modello tecnico del repository](https://github.com/RegioneUmbria/riuso/blob/master/Progetto%20Repository-MT.doc?raw=true)
 
 ## Descrizione dei prodotti messi a riuso
 In Github sono presenti i seguenti repository:
