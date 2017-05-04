@@ -1,6 +1,6 @@
 # Informazioni relative al riuso del software
 
-La Regione Umbria ha creato un repository contentente il codice sorgente dei progetti software messi a riuso e le buone pratiche.
+La Regione Umbria ha predisposto un repository contentente il codice sorgente e le buone pratiche dei progetti software messi a riuso.
 Le Pubbliche Amministrazioni interessate possono richiede alla Regione Umbria l'accesso a tali repository.
 
 ## Modalità di accesso
